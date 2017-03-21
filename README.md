@@ -1,10 +1,10 @@
 # AWS IoT Button Project - Simple Check-In/Check-Out for Hotels and AirBnB
 
-## This Project
+## The Project
 
-A simple way to check-in, check-out or ask for help with the click of a button for guests staying at hotels or AirBnB.
+A simple way for guests staying at hotels or AirBnb to check-in, check-out or ask for help with the click of a button.
 
-In this project, you will set an AWS IoT Button, using AWS cloud services, to send customized notifications using SMS text messages by a guest to the owner of a hotel or AirBnB host. 
+In this project, you will set an AWS IoT Button, using AWS cloud services, that can be used to send customized notifications using SMS text messages by a guest to the owner of a hotel or AirBnB host for easy check-in, check-out or request for help. 
 
 The button supports three actions- 
   A single click will notify the guest has checked in with the time of check-in. 
